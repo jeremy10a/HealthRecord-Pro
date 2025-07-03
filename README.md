@@ -14,4 +14,4 @@ Research & Analytics: Auto-categorize patient demographics, diagnoses, and treat
 Input raw clinical notes, patient record exports (e.g., CSV, TXT, or direct EHR dumps), or de-identified datasets and receive a structured JSON output or a pre-formatted dataset highlighting key patient, diagnosis, and treatment insights.
 
 
-🔗 [View the HealthRecord Pro Clinical Data Pro Launcher](HealthRecord-Pro-Launcher.md)
+🔗 [View the HealthRecord Pro Clinical Data Pro Launcher](/HealthRecord-Pro-Launcher.md)
